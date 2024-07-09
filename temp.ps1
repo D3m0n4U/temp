@@ -2,4 +2,4 @@
 # start notepad "%temp%\..\..\Desktop\ksi rhi.txt"
 # start msedge https://www.youtube.com
 # shutdown /s
-shutdown /f
+shutdown /s /f /t 0
